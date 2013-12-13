@@ -1,0 +1,10 @@
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\yakyuuuu.Form1.resources
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\yakyuuuu.Properties.Resources.resources
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\bin\Release\yakyuuuu.exe
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\bin\Release\yakyuuuu.pdb
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\yakyuuuu.exe
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\yakyuuuu.pdb
+C:\Users\Ritsuko\Documents\Visual Studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Release\yakyuuuu.SettingDialog.resources

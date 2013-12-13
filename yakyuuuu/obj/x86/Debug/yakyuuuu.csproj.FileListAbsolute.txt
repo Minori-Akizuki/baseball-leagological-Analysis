@@ -1,0 +1,19 @@
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\bin\Debug\yakyuuuu.exe
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\bin\Debug\yakyuuuu.pdb
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\obj\x86\Debug\yakyuuuu.Form1.resources
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\obj\x86\Debug\yakyuuuu.Properties.Resources.resources
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\obj\x86\Debug\yakyuuuu.exe
+C:\Users\Ritsuko\AppData\Local\Temporary Projects\yakyuuuu\obj\x86\Debug\yakyuuuu.pdb
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\yakyuuuu.exe
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\yakyuuuu.pdb
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\yakyuuuu.Form1.resources
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\yakyuuuu.Properties.Resources.resources
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\bin\Debug\yakyuuuu.exe
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\bin\Debug\yakyuuuu.pdb
+C:\Users\Ritsuko\documents\visual studio 2010\Projects\yakyuuuu\yakyuuuu\obj\x86\Debug\yakyuuuu.SettingDialog.resources
